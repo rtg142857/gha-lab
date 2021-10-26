@@ -1,3 +1,5 @@
 print("Hello world!")
-print("yowhaddup")
-prant("asasdfjkl;")
+
+def WhaddUp():
+    TwO="yowhaddup"
+    return TwO
